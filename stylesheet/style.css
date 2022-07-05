@@ -12,6 +12,9 @@ h1,h2,h3,h4{
 .gap2{
     margin-top: 100px;
 }
+.gap3{
+    margin-top: 150px;
+}
 #icon2{
     width: 25px;
     color: #3F87F5;
@@ -21,7 +24,7 @@ h1,h2,h3,h4{
     color: #5243C2;
 }
 .icon3{
-    
+
 }
 .main{
     background-color: #3F87F5;
